@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SoftXpertTask</string>
+    <string name="used">Used</string>
+    <string name="not_used">Not Used</string>
+    <string name="no_connection">No Internet connection !!</string>
+</resources>
