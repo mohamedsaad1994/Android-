@@ -1,5 +1,3 @@
-A sample application to describe new way of paging in recyclerView using paging library.
-
 Android Paging Library is an important component of Android Jetpack.
 
 Why use Paging?
